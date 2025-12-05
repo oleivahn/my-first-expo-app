@@ -1,0 +1,335 @@
+{
+  "main": {
+    "id": "1c735d8e94e3a307",
+    "type": "split",
+    "children": [
+      {
+        "id": "8442c9c7adf4b55c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40df2d172295e6f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS - File Locations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS - File Locations"
+            }
+          },
+          {
+            "id": "debd208b435a3bae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Connect to DB - MySQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Connect to DB - MySQL"
+            }
+          },
+          {
+            "id": "2b6d3477625b9f60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deployment Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deployment Notes"
+            }
+          },
+          {
+            "id": "9d40bf50d0c15957",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Add New Routes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Add New Routes"
+            }
+          },
+          {
+            "id": "6d9ef76df3919e0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Keycloak Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Keycloak Notes"
+            }
+          },
+          {
+            "id": "3cf4b8a6d75827ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sprints/sprint-4-1 - RER Sprint/Sprint-4-1 Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sprint-4-1 Notes"
+            }
+          },
+          {
+            "id": "b9a3535d53b17fdb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
+            "id": "34863243a13e32fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Initial Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Initial Notes"
+            }
+          },
+          {
+            "id": "19d89b02e322eb1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sprints/sprint-4-1 - RER Sprint/Test File.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test File"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d50ef6f934a8b00",
+    "type": "split",
+    "children": [
+      {
+        "id": "06e93dd0fc0f0151",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30eba70922683d7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7bfabea0787e753c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "22cff35b8489cc14",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.5
+  },
+  "right": {
+    "id": "25a42a154b00f02d",
+    "type": "split",
+    "children": [
+      {
+        "id": "caaac050c3cab7e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d06d02d747c763c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Notes/Settings.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Settings"
+            }
+          },
+          {
+            "id": "d375962fb98009d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Notes/Settings.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Settings"
+            }
+          },
+          {
+            "id": "a6266274a3453bc4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4ed4b8e8fe6efe61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Notes/Settings.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Settings"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "vscode-editor:Create Code File": false
+    }
+  },
+  "active": "34863243a13e32fb",
+  "lastOpenFiles": [
+    "Initial Notes.md",
+    "Deployment Notes.md",
+    "Sprints/sprint-4-1 - RER Sprint/Sprint-4-1 Notes.md",
+    "Sprints/sprint-4-1 - RER Sprint/Test File.md",
+    "Sprints/sprint-4-1 - RER Sprint/ctrl.json",
+    "Sprints/sprint-4-1 - RER Sprint/New Text Document.txt",
+    "Keycloak Notes.md",
+    "Add New Routes.md",
+    "Connect to DB - MySQL.md",
+    "AWS - File Locations.md",
+    "images/image.png",
+    "images",
+    "images/image-2.png",
+    "Obsidian Notes/Settings.md",
+    "EHC/Dog Case/Dog Case.md",
+    "EHC/Dog Case",
+    "Untitled",
+    "EHC",
+    "images/image-1.png",
+    "Audio Configs.md",
+    "Brooks.md",
+    "RDP Settings.md",
+    "EHC Notes.md",
+    "EHC Quicknotes.md",
+    "Beds.md",
+    "Elden Ring.md",
+    "Next JS .txt",
+    "Brooks.txt",
+    "Brooks 1.txt",
+    "Tags",
+    "images/obs snippets.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "beds.md",
+    "PayTracker Notes/Quick Notes.md",
+    "PayTracker Notes/Test Note.md",
+    "Something.md",
+    "test.md",
+    "images/Pasted image 20251025044456.png",
+    "images/Pasted image 20251025043351.png",
+    "images/Pasted image 20251025043239.png",
+    "images/Pasted image 20251025042858.png",
+    "images/Pasted image 20251025042250.png",
+    "saved1.md",
+    "images/Pasted image 20251024214848.png",
+    "Obsidian/Obsidian Notes.md",
+    "AWS Course/AWS Course Notes.md"
+  ]
+}

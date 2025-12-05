@@ -1,0 +1,14 @@
+{
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "spellcheck": false,
+  "readableLineLength": false,
+  "attachmentFolderPath": "/images/",
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "focusNewTab": false,
+  "userIgnoreFilters": [
+    "images/"
+  ]
+}

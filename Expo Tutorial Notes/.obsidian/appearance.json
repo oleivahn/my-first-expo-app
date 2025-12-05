@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "cssTheme": "Red Graphite",
+  "baseFontSize": 15,
+  "enabledCssSnippets": [
+    "header"
+  ],
+  "showRibbon": false
+}
